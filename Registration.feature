@@ -1,3 +1,4 @@
+
 Feature: Registration
 Background: common steps
 Given opens URL "https://demo.opencart.com.gr/"
